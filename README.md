@@ -1,12 +1,12 @@
-[![MasterHead](https://cdn.dribbble.com/users/1056629/screenshots/6475612/dribbble_fireart_3.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Olaniyan Kolade Wisdom</h1>
+[![MasterHead](https://i.gifer.com/8opi.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Olaniyan Kolade Wisdom</h1> 
 <h3 align="center">A passionate Software Developer</h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="wisdom" /> </p>
 
-<p align="right">#
+<p align="left">#
  <a href="https://twitter.com/WizDev_" target="blank">
  	<img src="https://img.shields.io/twitter/follow/WizDev_?logo=twitter&style=for-the-badge" alt="WizDev_" /></a> </p>
 
