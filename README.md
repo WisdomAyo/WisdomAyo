@@ -1,12 +1,9 @@
 [![MasterHead](https://i.gifer.com/8opi.gif)](https://rishavchanda.io)
+<p align="center"> <img src="https://i.gifer.com/9CvO.gif" alt="wisdom" /> </p>
 <h1 align="center">Hi 👋, I'm Olaniyan Kolade Wisdom</h1> 
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://i.gifer.com/9CvO.gif" alt="wisdom" /> </p>
-
-<p align="left">#
+<p align="left">
  <a href="https://twitter.com/WizDev_" target="blank">
  	<img src="https://img.shields.io/twitter/follow/WizDev_?logo=twitter&style=for-the-badge" alt="WizDev_" /></a> </p>
 
