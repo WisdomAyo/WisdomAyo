@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/8opi.gif)](https://rishavchanda.io)
+
 <p align="center"> <img src="https://i.gifer.com/9CvO.gif" alt="wisdom" /> </p>
 <h1 align="center">Hi 👋, I'm Olaniyan Kolade Wisdom</h1> 
 <h3 align="center">A passionate Software Developer</h3>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 💬 Ask me about **PHP(Laravel) || C#(dotNET) || React.JS**
+- 💬 Ask me about **PHP(Laravel) || C#(dotNET) || React.JS || BolockChain Development**
 
 - 📫 How to reach me **koladeolaniyan@gmail.com**
 
