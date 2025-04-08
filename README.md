@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Google Cloud / USSD Development**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I love to work with  **PYTHON**
 
 - 💬 Ask me about **PHP(Laravel) || C#(dotNET) || React.JS || BolockChain Development**
 
