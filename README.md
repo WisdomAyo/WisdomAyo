@@ -11,7 +11,7 @@
 
 - 🌱 I love to work with  **PYTHON**
 
-- 💬 Ask me about **PHP(Laravel) || C#(dotNET) || React.JS || BolockChain Development**
+- 💬 Ask me about **PHP(Laravel) || Vue.JS || C#(dotNET) || React.JS || BolockChain Development**
 
 - 📫 How to reach me **koladeolaniyan@gmail.com**
 
