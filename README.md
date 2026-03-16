@@ -7,7 +7,7 @@
  <a href="https://twitter.com/WizDev_" target="blank">
  	<img src="https://img.shields.io/twitter/follow/WizDev_?logo=twitter&style=for-the-badge" alt="WizDev_" /></a> </p>
 
-- 🔭 I’m currently working on **Google Cloud / USSD Development**
+- 🔭 I’m currently working on **Google Cloud /  AI Engineering**
 
 - 🌱 I love to work with  **PYTHON**
 
